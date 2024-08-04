@@ -1,0 +1,9 @@
+main: com.gardensmc.gardensmagic.GardensMagic
+name: GardensMagic
+version: 1.0.0
+author: Bright_Steel
+api-version: 1.20
+commands:
+  cast:
+    description: Cast an ability
+    usage: /<command>
